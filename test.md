@@ -2,17 +2,14 @@
 id
 ```
 
-```html
 <table>
 <tbody>
   <tr>
     <td>description</td>
-    <td>image</td>
+    <td><img style="float: right;" src="https://i.imgur.com/s5T5QSD.png"></td>
   </tr>
 </tbody>
 </table>
-```
 
-<img style="float: right;" src="whatever.jpg">
 
-Continue markdown text...
+
