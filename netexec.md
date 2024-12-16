@@ -18,7 +18,7 @@ This is windows details
   <strong>Warning:</strong> This is a custom warning block!
 </div>
 
-> ⚠️ **Warning:** This is a warning block in Markdown!
+💡 Nevertheless, there is a GitHub project called DllExport which allows us to export methods. To use this tool, we will need to add the NuGet package to the project. Inside the Visual Studio window, select Project > Manage NuGet Packages...
 
 
 ## Linux
