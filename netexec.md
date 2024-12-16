@@ -14,9 +14,12 @@ This is windows details
 
 <h1>Test h1</h1>
 
-<p style="text-decoration:underline">THis is underlined text</p>
+<div style="padding: 1em; background-color: #f8d7da; border: 1px solid #f5c2c7; border-radius: 5px; color: #842029;">
+  <strong>Warning:</strong> This is a custom warning block!
+</div>
 
-This is enumeration details
+> ⚠️ **Warning:** This is a warning block in Markdown!
+
 
 ## Linux
 
